@@ -1,0 +1,25 @@
+/* here you can put your own css to customize and override the theme */
+
+.page-header.navbar .page-logo .logo-default {
+    margin: 18px 0 0;
+    height: 18px;
+}
+
+.progress-bar-success {
+    background-color: #f76f00;
+}
+
+.setup-page-content {
+	margin: 0 !important;
+	min-height: 541px !important;
+}
+
+.setup-container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.setup-page-title {
+    text-align: center;
+    margin: 10px 0 !important;
+}
